@@ -1,6 +1,6 @@
 /*
-  Ths Open Ai ChatGpt Bot By Mr Nima
-  @darkmakerofc
+  Ths Open Ai ChatGpt Bot By kashibhai
+  @kashif0001j
   Using
   @openai
   @adiwajshing/baileys
