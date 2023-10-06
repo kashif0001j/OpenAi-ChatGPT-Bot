@@ -17,8 +17,8 @@ global.ONLY_GROUPS = false // Only Groups Use
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
 global.OWNER_NAME = 'kashibhi openAI' // Owner Name
-global.OWNER_NUMBER = ['+923098767028'] //Owner Number
-global.BOT_ADMINS = ['+923098767028','+923144645783'] //Bot admins numbers Like a Sudo Numbers
+global.OWNER_NUMBER = ['3098767028'] //Owner Number
+global.BOT_ADMINS = ['3098767028','+923144645783'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'mediam' // Available Quality Are => low | mediam | high
 global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴𝙽-𝙰𝙸(𝙲𝙷𝙰𝚃𝙶𝙿𝚃) 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃*'
